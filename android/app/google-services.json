@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1003823911782",
+    "project_id": "chatmate-25f72",
+    "storage_bucket": "chatmate-25f72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003823911782:android:49a6b3734b51b69986aea7",
+        "android_client_info": {
+          "package_name": "com.example.chatmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_hZvvmu4bAsgXArYuwKIkzEgIlpyA1oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
